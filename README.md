@@ -1,5 +1,8 @@
 # Kubernetes-NodeJS-to-Nginx
 
+## Architecture
+![image](https://user-images.githubusercontent.com/18619872/229292808-e3577e1d-6ed5-48db-856c-5c965b05e05e.png)
+
 ## Install minikube, kubectl & virtualisation tool(like vmware/virtual box/docker)
 1. `minikube start`
 
